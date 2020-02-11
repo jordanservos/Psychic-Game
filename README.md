@@ -9,7 +9,7 @@ Try your best at being pyschic by guessing the correct letter! Press any key on 
 Click on the link to play! - https://jordanservos.github.io/Psychic-Game/
 
 Built With:
-HTML5
-CSS
-Twitter Bootstrap
-Javascript
+- HTML5
+- CSS
+- Twitter Bootstrap
+- Javascript
